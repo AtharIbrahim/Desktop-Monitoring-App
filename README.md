@@ -132,12 +132,13 @@ Settings → Appearance → Dark Mode / Minimal Mode
 - **Widget Support:** Unlimited floating widgets
 
 ## 📬 Contact
-<ul>
-  <li><strong>Name</strong>: Athar Ibrahim Khalid</li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/AtharIbrahim/" target="_blank">https://github.com/AtharIbrahim/</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/athar-ibrahim-khalid-0715172a2/" target="_blank">LinkedIn Profile</a></li>
-  <li><strong>Website</strong>: <a href="https://atharibrahimkhalid.netlify.app/" target="_blank">Athar Ibrahim Khalid</a></li>
-</ul>
+
+**Athar Ibrahim Khalid**
+
+🔗 **Links:**
+- GitHub: [https://github.com/AtharIbrahim/](https://github.com/AtharIbrahim/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/athar-ibrahim-khalid-0715172a2/)
+- Website: [Portfolio](https://atharibrahimkhalid.netlify.app/)
 
 
 ## 📄 License
