@@ -1,4 +1,4 @@
-# 🖥️ System Monitor – Real-Time System Monitoring Tool 📊
+# 🖥️ System Monitor – Real-Time System Monitoring Tool
 
 System Monitor is a powerful desktop application that provides comprehensive real-time monitoring of your system's performance metrics. Using modern UI/UX design principles and efficient data collection algorithms, System Monitor delivers **CPU, RAM, GPU, Network, Battery, and Temperature** monitoring with floating desktop widgets and customizable visualization options for optimal system oversight.
 
