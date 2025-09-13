@@ -12,7 +12,7 @@ System Monitor consists of:
 - **⚙️ Settings Panel:** Customizable appearance, widget visibility, and performance configurations.
 
 
-# 🌟 Key Features
+# 🌟 Key Feature
 
 ### 🚀 Real-Time Monitoring
 
